@@ -1,0 +1,26 @@
+C:/Users/Helga/Documents/U_of_S/AltLAB/Workshop_2023/attempt7/reports/data_posCRF
+
+2023-11-16 08:35:55.149658
+
+463 training tokens
+
+Tags in training data:
+N         	416
+V         	410
+PRT       	308
+ADV       	246
+PP        	203
+CONJ      	125
+DM        	83
+DEM       	77
+TNS       	74
+ENC       	47
+PRED      	37
+NUM       	34
+QUANT     	21
+PRO       	19
+ADJ       	16
+INTV      	12
+INTERJ    	4
+@@@       	1
+

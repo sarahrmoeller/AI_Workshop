@@ -1,0 +1,19 @@
+2023-10-18 16:49:14.063559
+
+add correct pos tags with senteneces 18,20,27,42 from skynet crf simple .predict
+Train tokens: 5782.
+Unannotated tokens: 389.
+
+POS tags in train set:
+
+NOUN   	86
+VERB   	50
+ADV   	25
+NUM   	8
+.   	57
+PRT   	12
+DET   	33
+ADJ   	34
+ADP   	37
+CONJ   	26
+PRON   	21

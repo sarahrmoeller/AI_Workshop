@@ -1,0 +1,19 @@
+2023-10-18 16:56:36.352869
+
+
+Train tokens: 5782.
+Unannotated tokens: 342.
+
+POS tags in train set:
+
+NOUN   	66
+VERB   	47
+ADV   	26
+NUM   	6
+.   	53
+PRT   	9
+DET   	41
+ADJ   	28
+ADP   	40
+CONJ   	14
+PRON   	12
