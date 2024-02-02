@@ -1,4 +1,0 @@
-Adding 5 more sentences didn't make huge differences
-more data: try generating from FST (see previous notes)
-continue standardising---e.g. make sure clitics are not attached with equal signs (or at least be consistent)
-put some serious thought into chunking e.g. VTA endings; how to deal with homonymous morphemes: e.g. nominal vs verbal -wa (ansg vs 3sg), -yi obv vs 3', etc. Could this simplification help? verbs vs nouns also fairly fluid?
